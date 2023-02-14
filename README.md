@@ -54,4 +54,4 @@ Você pode reproduzir os resultados do projeto através do link do Google Colab:
 
 ## Referências
 
-Este projeto foi desenvolvido com auxilio de técnicas apresentadas no curso: <a href="https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa">Análise de Dados com Linguagem Python - Data Science Academy</a>
+Este projeto foi desenvolvido com auxilio de técnicas apresentadas na: <a href="https://www.datascienceacademy.com.br/bundle/formacao-analista-de-dados">Formação Analista de Dados - Data Science Academy</a>
